@@ -6,8 +6,8 @@ in ionic's _variables.scss file.
 For example, you might change some of the default colors:
 
 $light:                           #fff !default;
-$stable:                          #f8f8f8 !default;
-$positive:                        #387ef5 !default;
+$stable:                          #8f53f0 !default;
+$positive:                        #2faf25 !default;
 $calm:                            #11c1f3 !default;
 $balanced:                        #33cd5f !default;
 $energized:                       #ffc900 !default;
@@ -2947,7 +2947,7 @@ a.subdued {
     box-shadow: none;
     border-color: #d1d3d6;
     color: #007aff;
-    background: #e4e5e7; }
+    background: #444954; }
 
 .action-sheet-has-icons .icon {
   position: absolute;
